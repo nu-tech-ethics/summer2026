@@ -14,4 +14,4 @@ Share your thoughts on the following:
 - What can you offer members of the course to thrive together (kind words, physical help, intellectual collaboration, and so on)?
 - Anything else you think I should know!
 
-IMPORTANT: To be graded, you must [**submit your *journal entry* to Canvas.**](https://canvas.northwestern.edu/courses/253562)
+IMPORTANT: To be graded, you must [**submit your journal entry to Canvas.**](https://canvas.northwestern.edu/courses/253562)
