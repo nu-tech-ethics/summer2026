@@ -9,7 +9,7 @@ show_schedule: 1
 slides:
   - url: 
     title: Intro to Computing, Ethics, and Society
-due_date: 2024-06-22
+due_date: 2026-06-22
 readings:
   - title: Course Syllabus
     url: /summer2026/syllabus/
