@@ -5,7 +5,7 @@ type: page
 permalink: /syllabus/
 course: "CS 396/496 | LS 351: Computing, Ethics, and Society"
 professor: Natalie Araujo Melo (any pronouns)
-class_time: Weekdays* 1-3pm from June 22 to July 10 (*NO CLASS FRIDAY JULY 3)
+class_time: Weekdays* 1-3pm (*NO CLASS FRIDAY JULY 3)
 class_location: Zoom (see Canvas for link)
 office_hours: By appointment (see Canvas for link)
 ---
@@ -15,7 +15,7 @@ Computing technologies shape our personal, social, and political lives in increa
 
 At the same time, these technologies are born and shaped by the societies in which they are developed. Thus, grappling with the ethics of technologies (i.e considering the harms and benefits, how and why they were created in the first place, and how and to what ends they are used) is important not only for ultimately creating more moral technologies but a more moral society. Thus, our approach to the ethics of computing technologies requires a multifaceted assessment of their harm and benefit to our individual, cultural, and political lives, and simultaneously a critical examination of the values, ideologies, and contexts through which computing technologies emerge. 
 
-To accomplish this, we will engage in critical reading across a range of topics drawn from computer science and HCI, education and learning sciences, as well as ethics and philosophy. These readings and ideas will help us to:
+To accomplish this, we will engage in critical reading across a range of topics drawn from computer science, science and technology studies, critical race studies, as well as ethics and philosophy. These readings and ideas will help us to:
 
 1. Recognize the value judgements and subjectivities that undergird a wide variety of technical practices (e.g. sampling, data collection practices, categorization and classification, prediction, system design, etc.).
 1. Examine the design choices and tradeoffs that various computing infrastructures make (and have made) in relation to important societal values (e.g. individual autonomy, free speech, equity, privacy, justice, security, access to opportunity, etc.).
@@ -25,10 +25,10 @@ To accomplish this, we will engage in critical reading across a range of topics 
 The course is open to all students. For CS majors, minors, and graduate students, the course aims to help students to consider and grapple with ethical dimensions of their work, in order to inform a more critical technical practice. For students coming into the class from other disciplinary vantage points, the course aims to provide a solid foundation for thinking about the possibilities, risks, and impacts of computer-mediated infrastructures on society.
 
 ## Acknowledgements
-This course was originally developed in collaboration with Dr. Sepehr Vakil, Dr. Sarah Van Wart, and Natalie Araujo Melo.
+This course was originally developed in collaboration with Dr. Sepehr Vakil, Dr. Sarah Van Wart, and Dr. Natalie Araujo Melo. This syllabus follows subsequent adaptations from Dr. Natalie Araujo Melo and Dr. Victoria C Chávez.
 
 ## Required Texts
-All assigned readings will be available via Canvas as PDFs, no purchase required. If you would like to dive more in-depth into the topics we learn about, below are the books we will be reading chapters from (in chronological order):
+All assigned readings will be available as audio/video files or PDFs, no purchase required. If you would like to dive more in-depth into the topics we learn about, below are the books we will be reading chapters from (in chronological order):
 
 1. Benjamin, R. (2019). <a href="https://www.ruhabenjamin.com/race-after-technology">Race After Technology: Abolitionist Tools for the New Jim Code</a>. John Wiley & Sons.
     * You may purchase it (recommended), of you can access it <a href="https://ebookcentral.proquest.com/lib/northwestern/detail.action?docID=5820427">online through the Northwestern Library</a>.
@@ -42,7 +42,7 @@ The course format will consist of:
 1. Reflective writing assignments that will ask you to analyze the social and ethical dimensions of contemporary technology debates.
 
 ### Office Hours
-TBD
+Office hours will be scheduled by appointment. See course Canvas for link.
 
 Course grades will be composed of:
 1. Participation (40%)
@@ -65,7 +65,7 @@ Each student will also create an "Identity Journal" that will be updated through
 > You are allowed ONE unexcused absence during the quarter, no questions asked. You should reserve these absences for the occasional emergency or illness. After one absence, your participation grade will be impacted.
 
 ### 3. Midterm Scaffolds (30%)
-TBD
+Due to the pace of this course, in lieu of a midterm paper, you will be assigned three midterm scaffolds during the first half of the term. For each scaffold, you will identify a quote from the related readings that resonated with you and answer questions in the form of 1-2 paragraphs of text or 2-3 minutes of video. You will receive feedback on your assignment within a few days of submission. Make sure to review the feedback as you craft your final.
 
 ### 4. Final Project (30%)
 For your final assignment in this class, we want to push you to think about how you might want to contribute to a just, technologically-mediated future. You can think about this very broadly. For instance:
@@ -117,10 +117,13 @@ Students will develop mental models for considering when, how, or even if techno
 Lastly, students will formulate ideas (or strengthen existing ones) around responsibility and care; specifically, how they might use their own and their community’s knowledge, skills, dispositions, and creativity to participate in the world going forward. This may involve taking some future action (big or small), calling others in or out, exploring a new idea, reading more about a topic, or something else, towards fostering a more ethical and just society.
 
 ## Course and University Policies
-Below, we have also included the following statements, written by the <a href="https://www.registrar.northwestern.edu/faculty-staff/syllabi.html" target="_blank">Provost's office</a>:
+### On the Use of AI
+We will attempt to tread a little lighter on the planet, at least in the context of this classroom. I take seriously the hidden environmental and human costs of AI so we will continue to minimize its use in this class and the resulting harm it causes. The Digital Apothecary has written <a href="https://www.digitalapothecary.org/onai" target="_blank">a statement about AI</a> in which we question its growing role in our world. There is no question that in this class, AI should not be used for course work as we are embarking on the very human process of creating our own stories.
+
+Below, we have also included the following statements, written by the <a href="https://www.registrar.northwestern.edu/registration-graduation/northwestern-university-syllabus-standards.html" target="_blank">Provost's office</a>:
 
 ### Academic Integrity
-> Students in this course are required to comply with the policies found in the booklet, "Academic Integrity at Northwestern University: A Basic Guide". All papers submitted for credit in this course must be submitted electronically unless otherwise instructed by the professor. Your written work may be tested for plagiarized content. For details regarding academic integrity at Northwestern or to download the guide, visit: <a href="https://www.northwestern.edu/provost/policies/academic-integrity/index.html" target="_blank">https://www.northwestern.edu/provost/policies/academic-integrity/index.html</a>.
+> Students in this course are required to comply with the policies found in the booklet, "Academic Integrity at Northwestern University: A Basic Guide". All papers submitted for credit in this course must be submitted electronically unless otherwise instructed by the professor. Your written work may be tested for plagiarized content. Any form of cheating, including improper use of content generated by artificial intelligence, constitutes a violation of Northwestern’s academic integrity policy. For details regarding academic integrity at Northwestern or to download the guide, see <a href="https://www.northwestern.edu/provost/policies-procedures/academic-integrity/" target="_blank">the University Academic Integrity Policy</a>.
 
 ### Accessibility
 > Northwestern University is committed to providing the most accessible learning environment as possible for students with disabilities. Should you anticipate or experience disability-related barriers in the academic setting, please contact AccessibleNU to move forward with the university’s established accommodation process (e: accessiblenu@northwestern.edu; p: 847-467-5530). If you already have established accommodations with AccessibleNU, please let me know as soon as possible, preferably within the first two weeks of the term, so we can work together to implement your disability accommodations. Disability information, including academic accommodations, is confidential under the Family Educational Rights and Privacy Act.
