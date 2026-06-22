@@ -3,7 +3,7 @@ layout: module
 num: 5
 title: Color-Evasiveness
 type: lecture
-draft: 0
+draft: 1
 group: 2
 show_schedule: 1
 due_date: 2024-01-18

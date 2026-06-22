@@ -5,7 +5,7 @@ abbreviation: Journal 1
 type: identity
 due_date: 2024-01-04
 ordering: 1
-draft: 0
+draft: 1
 ---
 
 Remember: Every time you make an entry, **you must submit the text on Canvas.**

@@ -4,7 +4,7 @@ title: "Midterm Scaffold: STS"
 abbreviation: Scaffold 1
 due_date: 2024-01-12
 ordering: 1
-draft: 0
+draft: 1
 ---
 ## Instructions
 Identify a quote from the readings this week that resonated with you.

@@ -4,7 +4,7 @@ title: "Midterm"
 abbreviation: Midterm
 due_date: 2024-02-02
 ordering: 1
-draft: 0
+draft: 1
 ---
 ## Instructions
 Develop a conceptual framework that draws on the readings as well as your identity to articulate your unique perspective on a **specific technology**. That is, 

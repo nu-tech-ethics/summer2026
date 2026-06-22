@@ -3,7 +3,7 @@ layout: module
 num: 3
 title: Solutionism
 type: lecture
-draft: 0
+draft: 1
 group: 1
 show_schedule: 1
 due_date: 2024-01-11

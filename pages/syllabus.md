@@ -5,11 +5,9 @@ type: page
 permalink: /syllabus/
 course: "CS 396/496 | LS 351: Computing, Ethics, and Society"
 professor: Natalie Araujo Melo (any pronouns)
-pms: Arianna (she/her) and Tasneem (she/her)
-class_time: Tuesdays and Thursdays, 9:30am - 10:50am
+class_time: Weekdays* 1-3pm from June 22 to July 10 (*NO CLASS FRIDAY JULY 3)
 class_location: Zoom (see Canvas for link)
-office_hours: Fridays 12-1PM on class zoom 
-include_covid_statement: 1
+office_hours: By appointment (see Canvas for link)
 ---
 
 ## Course Description and Importance
@@ -34,8 +32,6 @@ All assigned readings will be available via Canvas as PDFs, no purchase required
 
 1. Benjamin, R. (2019). <a href="https://www.ruhabenjamin.com/race-after-technology">Race After Technology: Abolitionist Tools for the New Jim Code</a>. John Wiley & Sons.
     * You may purchase it (recommended), of you can access it <a href="https://ebookcentral.proquest.com/lib/northwestern/detail.action?docID=5820427">online through the Northwestern Library</a>.
-1. Crawford, Kate (2021). <a href="">Atlas of AI</a>. Yale University Press. 
-    * Available through <a href="https://www-jstor-org.turing.library.northwestern.edu/stable/j.ctv1ghv45t">Northwestern's JSTOR access</a>.
 1. Costanza-Chock, Sasha (2020). <a href="https://design-justice.pubpub.org/">Design Justice</a>. The MIT Press.
     * Open access (yay!)
 
@@ -50,8 +46,8 @@ TBD
 
 Course grades will be composed of:
 1. Participation (40%)
-1. Midterm (30%)
-1. Final project or paper (30%)
+1. Midterm Scaffolds (30%)
+1. Final Project (30%)
 
 ### 1. Participation (40%)
 Your participation grade will be based on attendance, and on evidence that you are engaging with the readings (as shown through your in-class participation as well as through your Identity Journal entries).
@@ -61,15 +57,15 @@ We will use classroom discussion as a form of collaborative sense-making to unde
 
 #### Identity Journal
 
-Each student will also create an "Identity Journal" that will be updated throughout the quarter, both during and outside of class. The Identity Journal will be a personalized space for you to keep track of how core themes of the class relate directly to your own lived experiences, identities, and perspectives. It will also serve as an artifact of your learning that will be useful to you beyond the class. **You may skip one identity journal post without a grade penalty.**
+Each student will also create an "Identity Journal" that will be updated throughout the quarter, both during and outside of class. The Identity Journal will be a personalized space for you to keep track of how core themes of the class relate directly to your own lived experiences, identities, and perspectives. It will also serve as an artifact of your learning that will be useful to you beyond the class.
 
 {:.blockquote-no-margin}
 > **Attendance and Absence Policy**
 > 
-> You are allowed two unexcused absences during the quarter, no questions asked. You should reserve these absences for the occasional emergency or illness. After two absences, your participation grade will be impacted.
+> You are allowed ONE unexcused absence during the quarter, no questions asked. You should reserve these absences for the occasional emergency or illness. After one absence, your participation grade will be impacted.
 
-### 3. Midterm (30%)
-Using at least 3 of the academic sources we have read so far, develop a conceptual framework that articulates your unique perspective on technology. Your conceptual framework should integrate theoretical arguments from the readings covered thus far and your own personal identity and experience in the world. Ultimately, your conceptual framework should be useful, and productive. You will draw upon it to conduct a sociopolitical analysis of your technology. Your analysis will be designed to shed light on questions such as: What values do this technology reflect, embrace, reject, or encourage? Who is affected by its design? How was its design affected by society? Who reaps the benefits, and who suffers the costs of its creation and use? 
+### 3. Midterm Scaffolds (30%)
+TBD
 
 ### 4. Final Project (30%)
 For your final assignment in this class, we want to push you to think about how you might want to contribute to a just, technologically-mediated future. You can think about this very broadly. For instance:
@@ -84,7 +80,7 @@ For your final assignment in this class, we want to push you to think about how 
 > * Hosting a podcast series
 > * And more! We've curated a list of resources [here](../resources) that can give you some ideas. 
 
-You may work individually or in groups of no more than three people. 
+You may work individually or in groups of no more than two people. 
 
 ### Other Grading Logistics
 We will not be using the final exam time for this class because there is no midterm or final exam. Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Final course grades will not be curved.  
@@ -144,12 +140,3 @@ In this class, we will **NOT** be recording classes. Note from the Provost's off
 > * [https://www.northwestern.edu/religious-life/](https://www.northwestern.edu/religious-life/)
 > * [https://www.northwestern.edu/care/](https://www.northwestern.edu/care/)
 
-### COVID-19 Classroom Expectations
-> Students, faculty, and staff must comply with University expectations regarding appropriate classroom behavior, including those outlined below and in the [COVID-19 Code of Conduct](https://www.northwestern.edu/communitystandards/about-us/northwestern-university-student-expectations-covid-19-code-of-conduct.html). With respect to classroom procedures, this includes:
-> 
-> * Policies regarding masking and social distancing evolve as the public health situation changes. Students are responsible for understanding and complying with current masking, testing, Symptom Tracking, and social distancing requirements.
-> * In some classes, masking and/or social distancing may be required as a result of an Americans with Disabilities Act (ADA) accommodation for the instructor or a student in the class even when not generally required on campus. In such cases, the instructor will notify the class.
-> * No food is allowed inside classrooms. Drinks are permitted, but please keep your face covering on and use a straw.
-> * Faculty may assign seats in some classes to help facilitate contact tracing in the event that a student tests positive for COVID-19. Students must sit in their assigned seats.
-> 
-> If a student fails to comply with the [COVID-19 Code of Conduct](https://www.northwestern.edu/communitystandards/about-us/northwestern-university-student-expectations-covid-19-code-of-conduct.html) or other University expectations related to COVID-19, the instructor may ask the student to leave the class. The instructor is asked to report the incident to the Office of Community Standards for additional follow-up.
