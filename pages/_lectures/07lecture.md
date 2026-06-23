@@ -8,7 +8,7 @@ group: 3
 show_schedule: 1
 due_date: 2026-06-30
 readings:
-  - title:
+  - title: "The Algorithmic Ecology: An Abolitionist Tool for Organizing Against Algorithms"
     url: https://stoplapdspying.medium.com/the-algorithmic-ecology-an-abolitionist-tool-for-organizing-against-algorithms-14fcbd0e64d0
     date: 2020
     author: Stop LAPD Spying Coalition & Free Radicals
