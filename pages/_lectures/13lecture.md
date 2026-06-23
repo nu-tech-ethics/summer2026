@@ -7,9 +7,6 @@ draft: 0
 group: 8
 show_schedule: 1
 due_date: 2026-07-09
-slides:
-  - url: https://docs.google.com/presentation/d/1bluNGCkiI7ULwAFwHskLBDsBADyKfm1gDB3Thund2NI/edit?usp=sharing
-    title: Insider
 readings:
   - title: "We Tell These Stories to Survive: Towards Abolition in Computer Science Education [Zine edition]" 
     url: https://drive.google.com/file/d/1xPWphHC4Ra00RrrD3ELIpzpJwVeDXW08/view?usp=sharing
