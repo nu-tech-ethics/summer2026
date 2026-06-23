@@ -1,7 +1,7 @@
 ---
 layout: assignment
 title: "Midterm Scaffold: CRCS"
-abbreviation: Scaffold 2
+abbreviation: Scaffold 3
 due_date: 2026-07-02
 ordering: 1
 draft: 0
