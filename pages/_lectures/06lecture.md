@@ -13,5 +13,6 @@ readings:
     author: Benjamin, R.
     date: 2019
     source: Polity
+    notes: We'll be reading the Introduction chapter, but you're welcome to check out the rest of the book on your own time (it's available via NU Libraries!)
 ---
 
