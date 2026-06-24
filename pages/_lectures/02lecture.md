@@ -14,6 +14,24 @@ readings:
     date: 1980
     source: Daedalus
     notes: Please comment no more than one word or an "mmm" on a quote you resonate with. Feel free to <a href="https://youtu.be/kicl0pXAJYQ">watch this video</a> as a primer to the article
+  - title: "Turtle Island Decolonized: Mapping Indigenous Names across “North America”"
+    url: https://decolonialatlas.wordpress.com/turtle-island-decolonized/
+    author: Engel, J.
+    date: 2023
+    source: Decolonial Atlas
+    optional: 1
+  - title: Google redraws the borders on maps depending on who’s looking
+    url: https://search.library.northwestern.edu/permalink/01NWU_INST/e32928/cdi_proquest_miscellaneous_2355145609
+    author: Bensinger, G.
+    date: 2020
+    source: The Washington Post
+    optional: 1
+  - title: What’s the real size of Africa? How Western states used maps to downplay size of continent
+    url: https://www.cnn.com/2016/08/18/africa/real-size-of-africa/index.html
+    author: Morlin-Yron, S.
+    date: 2017
+    source: CNN
+    optional: 1
 
 ---
 
