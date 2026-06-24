@@ -7,6 +7,9 @@ draft: 0
 group: 1
 show_schedule: 1
 due_date: 2026-06-23
+slides:
+  - url: https://docs.google.com/presentation/d/1XTCTdy5eDBa7aqQ3WCZ5PzB2wokzebFZ8pK4DXAJ-0E/edit?usp=sharing
+    title: Do Artifacts Have Politics?
 readings:
   - title: Do Artifacts Have Politics?
     url: https://drive.google.com/file/d/121N0pfKwcMWRDLSbKdm0UdG0RoZ4wUhl/view?usp=sharing
