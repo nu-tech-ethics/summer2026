@@ -10,7 +10,7 @@ draft: 0
 Identify a quote from the readings this week that resonated with you (and make sure to cite it!)
 - How does the quote relate to a core idea from the reading?
 - How does the idea from that quote resemble or differ from your perspectives on technology and/or lived experiences?
-- How has your [social identity (or identities)](https://unitedwaysem.org/wp-content/uploads/2021-21-Day-Equity-Challenge-Social-Identity-Wheel-FINAL.pdf) impacted your relationship to these ideas?
+- How has your social identity (or identities) impacted your relationship to these ideas?
 
 ### Format
 On Canvas, submit either: 
