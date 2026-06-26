@@ -4,7 +4,7 @@ num: 11
 title: Data Capitalism
 type: lecture
 draft: 0
-group: 7
+group: 5
 show_schedule: 1
 due_date: 2026-07-07
 readings:

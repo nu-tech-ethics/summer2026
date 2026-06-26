@@ -4,7 +4,7 @@ num: 13
 title: Insider
 type: lecture
 draft: 0
-group: 8
+group: 6
 show_schedule: 1
 due_date: 2026-07-09
 readings:

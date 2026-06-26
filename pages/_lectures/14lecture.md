@@ -4,7 +4,7 @@ num: 14
 title: So, What Now?
 type: lecture
 draft: 0
-group: 9
+group: 7
 show_schedule: 1
 due_date: 2026-07-10
 readings:
