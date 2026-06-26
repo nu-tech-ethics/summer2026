@@ -28,11 +28,11 @@ readings:
     date: 2022
     source: Atlanta (Hulu Series)
     optional: 1  
-  - title: " Critical Race Theory: An Introduction"
-    url: https://search.library.northwestern.edu/permalink/01NWU_INST/e32928/cdi_proquest_ebookcentral_EBC4714300
-    author: Delgado, R., Stefancic, J., & Harris, A. P.
-    date: 2017
-    source: NYU Press
+  - title: "CRT Forward: Tracking the Attack on Critical Race Theory"
+    url: https://crtforward.law.ucla.edu/wp-content/uploads/2023/04/UCLA-Law_CRT-Report_Final.pdf
+    author: Alexander, T., Baldwin Clark, L., Reinhard, K., & Zatz, N.
+    date: 2023
+    source: UCLA School of Law, Critical Race Studies Program
     optional: 1  
 
 ---
