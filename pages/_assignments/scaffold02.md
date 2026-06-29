@@ -2,7 +2,7 @@
 layout: assignment
 title: "Midterm Scaffold: CRT"
 abbreviation: Scaffold 2
-due_date: 2026-06-29
+due_date: 2026-06-30
 ordering: 1
 draft: 0
 ---
