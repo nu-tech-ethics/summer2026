@@ -8,7 +8,6 @@ ordering: 1
 draft: 0
 ---
 
-- Does a racist technology require racists?
-- Will increasing the number of BIPOC (black, indigenous, people of color) engineers and computer scientists solve the problem of racist technology?
+How are you feeling about the class thus far? What supports do you need?
 
 Note: Grading on completion attempt, so don’t worry if your answer isn’t perfect. This is a place to share your first draft thoughts! Also, please [**submit your journal entry to Canvas.**](https://canvas.northwestern.edu/courses/253562)
