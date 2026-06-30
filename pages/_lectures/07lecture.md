@@ -7,6 +7,9 @@ draft: 0
 group: 3
 show_schedule: 1
 due_date: 2026-06-30
+slides:
+  - url: https://docs.google.com/presentation/d/13VCv1wa0SEjJfDXMUH0H0kE-UiizLb6aMoFeO_v_Wuw/edit?usp=sharing
+    title: Algorithmic Ecology
 readings:
   - title: "The Algorithmic Ecology: An Abolitionist Tool for Organizing Against Algorithms"
     url: https://stoplapdspying.medium.com/the-algorithmic-ecology-an-abolitionist-tool-for-organizing-against-algorithms-14fcbd0e64d0
