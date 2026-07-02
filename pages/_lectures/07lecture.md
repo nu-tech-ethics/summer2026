@@ -19,7 +19,7 @@ readings:
     url: https://www.youtube.com/watch?v=Ac0-fBK0LVQ
     date: 2026
     source: Democracy Now
-    notes: Feel free to also check out Honor the Earth's <a href='https://static1.squarespace.com/static/662008fbe1c43d29c0122d8a/t/697bc48cf5969e3f1b4fe60a/1769718924307/Data+Centers+Myth+vs.+Fact+%285%29.pdf'>Data Center Fact Sheet</a>
+    notes: Feel free to also check out Honor the Earth's <a href='https://static1.squarespace.com/static/662008fbe1c43d29c0122d8a/t/697bc48cf5969e3f1b4fe60a/1769718924307/Data+Centers+Myth+vs.+Fact+%285%29.pdf'>Data Center Fact Sheet</a>. Note the difference in decibels <a href='https://www.nidcd.nih.gov/health/listen-infographic'>here</a>
   - title: Atlas of AI
     url: https://canvas.northwestern.edu/files/18094999/
     author: Crawford, K.
