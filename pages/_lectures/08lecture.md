@@ -23,6 +23,12 @@ readings:
     date: 2022
     source: IEEE Journals & Magazine
     optional: 1
+  - title: "Beyond representationalism: Heterogeneity as an ethical turn in STEM and computing education"
+    url: https://drive.google.com/file/d/1GTgeKplmFu_bGu7dLPIdCHAMV0_saM8y/view
+    author: Kayumova, S. & Sengupta, P.
+    date: 2022
+    source: The Learning Sciences in Conversation (pp. 218-234). Routledge.
+    optional: 1
 
   
 ---
