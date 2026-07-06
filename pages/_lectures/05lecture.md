@@ -33,5 +33,13 @@ readings:
     date: 2026
     source: Independent Lens
     optional: 1 
+  - title: Technoprecarious
+    url: https://www.gold.ac.uk/goldsmiths-press/publications/technoprecarious-/
+    author: Precarity Lab
+    date: 2020
+    source: MIT Press
+    notes: Available <a href='https://goldsmithspress.pubpub.org/technoprecarious'>open access</a>!
+    optional: 1 
+
 ---
 
