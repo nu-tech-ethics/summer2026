@@ -8,7 +8,7 @@ ordering: 1
 draft: 0
 ---
 
-Extend the list of questions from class today.
+Extend the list of questions from class Thursday.
 - What are some questions you can ask yourself to be able to better anticipate consequences?
 - Why are these questions important to ask?
 
