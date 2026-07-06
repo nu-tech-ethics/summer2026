@@ -1,9 +1,9 @@
 ---
 layout: assignment
-title: "Identity Journal 9"
-abbreviation: Journal 9
+title: "Identity Journal 10"
+abbreviation: Journal 10
 type: identity
-due_date: 2026-07-02
+due_date: 2026-07-06
 ordering: 1
 draft: 0
 ---
