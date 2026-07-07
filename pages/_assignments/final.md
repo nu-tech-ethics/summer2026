@@ -2,7 +2,7 @@
 layout: assignment-two-column
 title: "Final Project"
 abbreviation: Final
-due_date: 2026-07-10
+due_date: 2026-07-12
 ordering: 1
 draft: 0
 ---
