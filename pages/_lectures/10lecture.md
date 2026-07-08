@@ -35,18 +35,23 @@ readings:
     volume: 1
     notes: Check out the <a href="https://www.internetruleslab.com/black-mirror-writers-room">Internet Rules Lab</a> for Black Mirror Writers Room slides and more.
     optional: 1
-  - title: A new vision of artificial intelligence for the people
-    url: https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/
-    author: Hao, K.
-    date: 2022
-    source: MIT Technology Review
-    notes: More articles available in the series <a href="https://www.technologyreview.com/supertopic/ai-colonialism-supertopic">AI Colonialism</a>.
-    optional: 1
   - title: "Episode 1: Welcome to Radical AI"
     url: https://www.radicalai.org/minisodes/welcome-to-radical-ai
     author: Doyle-Burke, D. & Smith, J.
     date: 2020
     source: The Radical AI Podcast
     optional: 1
-  
+  - title: The Oracle for Transfeminist Technologies
+    url: https://transfeministech.codingrights.org/
+    author: Varon, J., Clarote, & Costanza-Chock, S.
+    source: Coding Rights & Design Justice Network
+    year:
+    optional: 1
+  - title: "Predictions: From Speculative Ethnography to Apocalyptic Testimony"
+    url: https://doi.org/10.28938/9781912729463
+    author: Hogan, M., Laser, S., & Ongweso Jr, E.
+    source: Mattering Press
+    volume: 1
+    date: 2026
+    optional: 1
 ---
